@@ -1,0 +1,92 @@
+<HTML>
+<HEAD>
+<TITLE>New Boston Promotions</TITLE>
+<META name="index" content="document">
+<META name="copyright" content="copyright 1997, by Haiku in Low Places">
+<META name="distribution" content="global">
+<META name="keywords" content="Music boston MA Boston Blues Society Promotions Advertising Specialties Doodlies">
+</HEAD>
+
+<BODY BGCOLOR="#a500dc" TEXT="#e0e0e0" LINK="#3d0069" ALINK="#3d0069" VLINK="#3d0069">
+
+<center>
+
+<a href="./body_frame.shtml" target="body"><IMG SRC="./nbplogo_tom2.gif" ALIGN="BOTTOM" border=0></a>
+
+<BR>
+
+<font FACE="Bookman" size=4 color="#e0e0e0">
+a division of
+
+<BR>
+
+<img src="./geigerlogo_tom1.gif" border=0>
+
+<br>
+
+<center>
+
+<font FACE="Bookman" size=6 color="#e0e0e0">
+click here<br>
+<a href="http://mmena.geigermall.com/index.jsp" target="_top">
+<img src="./flashing_bulb2.gif" border=0></a><br>
+<font FACE="Bookman" size=4 color="#e0e0e0">
+to search our user-friendly database of zillions of promotional products!
+
+<HR>
+
+<font FACE="Bookman" size=4 color="#e0e0e0">
+<a href="./body_frame.shtml" target="body">Home</a><br>
+<a href="./contact.html" target="body">Contact Us</a><br>
+<a href="./about_us.html" target="body">About Us</a><br>
+<a href="http://www.geigerstarperformers.com/catalog.lasso?ref=MaryANBP@aol.com&rid=mmena" target="body" NOSAVE BORDER=0>Peruse Our Catalog</a><br>
+<a href="./faq.html" target="body">FAQ</a><br>
+<a href="./who_is_that_dog.html" target="body">Who <strong><i>is</i></strong> that dog anyway?</a><br>
+<a href="./links.html" target="body">Links</a><br>
+<a href="./client_list.html" target="body">Client List</a><br>
+
+<HR>
+
+<FONT FACE="Bookman" SIZE=4 COLOR="#e0e0e0">
+<center>
+<strong>
+Promotional products can:
+<br>
+</strong>
+
+<FONT FACE="Bookman" SIZE=4 COLOR="#e0e0e0">
+<br>Motivate employees
+<br>Inspire results
+<br>Increase trade show traffic
+<br>Promote total quality
+<br>Produce sales leads
+<br>Introduce a new product
+<br>Thank clients
+<br>Educate consumers
+<br>Develop goodwill
+<br>Recognize performance
+<br>Move inventory
+<br>Open an account
+<br>Encourage teamwork
+<br>Merchandise your logo
+<br>Build an image
+<br>Open doors
+<br>Create a smile
+
+<br>
+
+
+<HR>
+
+<center>                                           
+We have been visited                               
+<!--#include virtual="./cgi-bin/nbp_counter.pl"--> 
+times.<br>                                         
+<!--#include virtual="./cgi-bin/nbp_logger.pl"-->  
+Please stop by again!<br>                          
+</center>                                          
+
+<p>&nbsp;</P>
+
+</BODY>
+</HTML>

@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+<TITLE>New Boston Promotions</TITLE>
+<META name="index" content="document">
+<META name="copyright" content="copyright 1997, by Haiku in Low Places">
+<META name="distribution" content="global">
+<META name="keywords" content="Music boston MA Boston Blues Society Promotions Advertising Specialties Doodlies">
+</HEAD>
+
+<BODY BGCOLOR="#a500dc" TEXT="#e0e0e0" LINK="#3d0069" ALINK="#3d0069" VLINK="#3d0069">
+
+
+<FONT FACE="Bookman" SIZE=5 COLOR="#3d0069">
+<center>
+<strong>
+Free Mousepad & Catalog!
+</strong>
+</center>
+<p>
+<FONT FACE="Bookman" SIZE=4 COLOR="#e0e0e0">
+Simply complete the form below and click the submit button at the bottom
+of the page to receive your free catalog and mousepad.
+<p>
+<!--#include virtual="./cgi-bin/nbp_counter_noprint.pl"-->
+<!--#include virtual="./cgi-bin/nbp_logger.pl"--> 
+<hr>
+<p>
+    <form method=POST action="http://www.newboston.net/cgi-bin/FormMail.pl">
+      Name:<input type=text name=realname size=40><br>
+      Company or Organization: <input type=text name=Company size=45><br>
+      Address: <input type=text name=Address size=45><br>
+      City: <input type=text name=City size=25>, State: <input type=text name=State size=2> Zip: <input type=text name=Zip size=10> Country: <input type=text value=USA name=Country size=15><br>
+      E-Mail: <input type=text name=email size=40><br>
+      <input type=hidden name="recipient" value="bonita@newboston.net">
+      Phone: <input type=text name=Phone size=20><br>
+      FAX: <input type=text name=FAX size=20><p>
+      Where did you hear about us?<br>
+      <textarea name="Where did you hear about us?" COLS=60 ROWS=1></textarea><p>
+      Comments:<br>
+      <textarea name=Comments COLS=60 ROWS=4 VALUE=>
+Please send me my free catalog and mousepad!
+      </textarea><p>
+      <input type=submit> * <input type=reset>
+    </form>
+  </body>
+</html>
+
+<p>&nbsp;</P>
+
+</BODY>
+</HTML>

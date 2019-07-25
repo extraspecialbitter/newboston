@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+  <TITLE>Welcome to Harpers Ferry! </TITLE>
+<META name="index" content="document">
+<META name="copyright" content="copyright 1997, by Harpers Ferry ">
+<META name="distribution" content="global">
+<META name="keywords" content="Harpers Ferry Music Bands billiards 232-city boston MA BIG Best Blues Club Boston Magazine's Rolling Stone
+     Magazine and by the Boston Globe.">
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#e0e0e0" LINK="red" ALINK="red" VLINK="red">
+
+<center>
+  <P><FONT SIZE=+1>This page creates a log summary.<FONT></P>
+</center>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<center>
+<!--#include virtual="../cgi-bin/harpers_summary.pl"--> 
+<P><FONT SIZE=+1>summary is done.<br></p>
+</center>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER>Click <A HREF="./log_summary.html">here</A> to view the summary.
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+</BODY>
+</HTML>

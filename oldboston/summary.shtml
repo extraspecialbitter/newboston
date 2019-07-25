@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+  <TITLE>New Boston Summary Promotions</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#e0e0e0" LINK="red" ALINK="red" VLINK="red">
+
+<center>
+  <P><FONT SIZE=+1>This page creates a log summary.<FONT></P>
+</center>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<center>
+<!--#include virtual="./cgi-bin/nbp_summary.pl"--> 
+<P><FONT SIZE=+1>The summary is done.<br></p>
+</center>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER>Click <A HREF="./log_summary.html">here</A> to view the summary.
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+</BODY>
+</HTML>

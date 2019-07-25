@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+  <TITLE>Welcome to Harpers Ferry! </TITLE>
+<META name="index" content="document">
+<META name="copyright" content="copyright 1997, by Harpers Ferry ">
+<META name="distribution" content="global">
+<META name="keywords" content="Harpers Ferry Music Bands billiards 232-city boston MA BIG Best Blues Club Boston Magazine's Rolling Stone
+     Magazine and by the Boston Globe.">
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#e0e0e0" LINK="red" ALINK="red" VLINK="red">
+
+<P ALIGN=CENTER><MAP NAME="newersplash">
+    <AREA SHAPE="rect" COORDS="420,183,559,232" HREF="./directions.html">
+    <AREA SHAPE="rect" COORDS="420,132,558,180" HREF="./links.html">
+    <AREA SHAPE="rect" COORDS="420,61,559,124" HREF="./calendar.html">
+</MAP><IMG SRC="./newersplash.gif" LOWSRC="./lowsplash.gif" ALIGN=
+"BOTTOM" USEMAP="#newersplash" ISMAP BORDER="0"> <IMG SRC="./redblurb.gif"
+ALIGN="BOTTOM"></P>
+
+<BLOCKQUOTE>
+  <P><STRONG><FONT SIZE=+1>Harpers Ferry </FONT></STRONG><FONT SIZE=+1>provides
+  a casual, friendly atmosphere for listening to favorite local, regional and
+  national blues and R&amp;B acts. 
+</FONT></P>
+</BLOCKQUOTE>
+
+<P ALIGN=CENTER><IMG SRC="./galspool.gif" ALIGN="BOTTOM"></P>
+
+<BLOCKQUOTE>
+  <P><FONT SIZE=+1>Harpers has won <EM>Boston Magazine's </EM>Best Blues
+  Club Award 3 times and has been named Boston's Best Blues Club by <EM>Rolling
+  Stone Magazine </EM>and the <EM>Boston Globe. </EM></FONT></P>
+</BLOCKQUOTE>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER>
+<Font face=lucida size=4 color="ffffff">
+<strong>
+Coming to Harpers Ferry on Thursday August 24th<br>
+the rural soul sounds of<br>
+<font size=6>
+<a href="http://www.blessidunion.com">Blessid Union of Souls</A><BR>
+<font size=4>
+Tickets will be $20 - available at the club now.<br>
+Also available - while they last - at all Strawberries locations<br>
+</font></strong>
+</p>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER>
+<Font face=lucida size=4 color="ffffff">
+<strong>
+Visit Our Billiards Room!<br>
+Four 4 x 8 Tables
+</strong></font>
+</P>
+
+<P ALIGN=CENTER><IMG SRC="./concertline.gif" ALIGN="BOTTOM"></P>
+
+<P ALIGN=CENTER><IMG SRC="./rule2.jpeg" WIDTH="80%" ALIGN="BOTTOM"
+NATURALSIZEFLAG="0" HEIGHT="33"><IMG SRC="./address.jpeg" ALIGN="BOTTOM"></P>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER><B><FONT SIZE=+1>send us 
+<a href="mailto:harpers@newboston.net"> email</a> at
+<a href="mailto:harpers@newboston.net"> harpers@newboston.net</A><br>
+if you'd like automatic monthly updates sent directly to your email
+address.</P>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER>
+<IMG SRC="./new001.gif">
+<B><FONT SIZE=+1>please sign our brand new
+<a href="http://www.newboston.net/harpers/guestbook.html">guestbook.</a></P>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<center>
+<!--#include virtual="/cgi-bin/harpers_counter.pl"--> people have 
+visited our home page.<br>
+<!--#include virtual="/cgi-bin/harpers_logger.pl"-->
+Please stop by again soon!<br></center>
+
+<P ALIGN=CENTER>&nbsp;</P>
+
+<P ALIGN=CENTER><B><FONT COLOR="#FFFFFF">Website services by:</FONT></B></P>
+
+<P ALIGN=CENTER><A HREF="http://www.newboston.net/"><IMG SRC="./mnbp2.gif"
+ALIGN="BOTTOM" BORDER="0" ALT="New Boston Promotions Link"></A>
+</BODY>
+</HTML>

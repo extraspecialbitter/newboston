@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<TITLE>New Boston Promotions</TITLE>
+<META name="index" content="document">
+<META name="copyright" content="copyright 1997, by Haiku in Low Places">
+<META name="distribution" content="global">
+<META name="keywords" content="Music boston MA Boston Blues Society Promotions Advertising Specialties Doodlies">
+</HEAD>
+
+<BODY BGCOLOR="#a500dc" TEXT="#e0e0e0" LINK="#3d0069" ALINK="#3d0069" VLINK="#3d0069">
+
+<FONT FACE="Bookman" SIZE=5 COLOR="#3d0069">
+<center><strong>
+PROVIDING QUALITY PROMOTIONAL PRODUCTS SINCE 1988  
+</strong></center>
+<p>
+
+<table><tr><td align=left>
+<img src="./maryweb_tom1.jpg" border=0>
+
+<td align=left>
+<FONT FACE="Bookman" SIZE=4 COLOR="#e0e0e0">
+We have access to over 500,000 promotional items- all available with your 
+logo on them!  Call us today to discuss your promotional objectives.  We will 
+help you find the perfect item to achieve your goals.
+<p>
+We can also offer advice about artwork and graphics, screening, embossing, 
+engraving and the dozens of other production methods used to produce 
+promotional products.  
+<p>
+Call us for information on the effectiveness of promotional products and the 
+best way to use them.  We can tell you about successful promotions that 
+worked for our other clients and offer strategies for measuring the success 
+of your programs.
+<p>
+Call now!  We guarantee you'll speak to a friendly, living, caffeinated 
+promotional products creative consultant… Probably one that looks very much 
+like this!
+</td/></tr></table>
+
+<p>
+
+<FONT FACE="Bookman" SIZE=5 COLOR="#3d0069">
+<center><strong>
+FREE MOUSEPAD!
+</strong>
+<p>
+<FONT FACE="Bookman" SIZE=4 COLOR="#e0e0e0">
+Request a catalog by clicking on the doggy mousepad below and we'll send one
+to you free (while supplies last)!
+<p>
+<a href="./contact_form.shtml"><img src="./mousepad_edges.jpg" border=0></a>
+</center>
+
+<!--#include virtual="./cgi-bin/nbp_counter_noprint.pl"-->
+<!--#include virtual="./cgi-bin/nbp_logger.pl"-->         
+
+<p>&nbsp;</p>
+
+</BODY>
+</HTML>
